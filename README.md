@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" width="100%" style="border-radius: 15px;">
+  <img src="assets/banner.gif" alt="Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Sina Omrani!
