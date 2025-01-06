@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" style="width: 100%; border-radius: 20px;">
+  <img src="assets/banner.gif" alt="Banner">
 </p>
 
 <h1 align="center">👋 Hi, I'm Sina Omrani!</h1>
