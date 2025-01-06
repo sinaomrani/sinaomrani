@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" width="100%">
+  <img src="assets/banner.gif" alt="Banner" width="100%" style="border-radius: 15px;">
 </p>
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sina Omrani!
 
 ## 🔥 About Me
 - 🎓 **Field of Study**: Computer Engineering 
@@ -33,12 +33,12 @@
 ---
 
 ## 🌐 Social Links
-- 📧 **Email**: youremail@example.com
+- 📧 **Email**: sinaomrani.dev@example.com
 - 🐦 **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
 - 💼 **LinkedIn**: [Your Profile](https://linkedin.com/in/YourProfile)
 
 ---
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Sina Omrani
 </p>
