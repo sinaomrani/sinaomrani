@@ -15,33 +15,12 @@
 ## 🛠️ Skills & Proficiency
 
 ### Programming Languages
-| Language       | Proficiency |
-|----------------|-------------|
-| Python         | ![Python](https://progress-bar.dev/80) |
-| JavaScript     | ![JavaScript](https://progress-bar.dev/65) |
-| C++            | ![C++](https://progress-bar.dev/70) |
-| HTML & CSS     | ![HTML & CSS](https://progress-bar.dev/90) |
-
-
-<table>
-  <tr>
-    <td>Python</td>
-    <td>
-      <div style="width: 80%; background-color: green; color: white; text-align: center; padding: 3px; border-radius: 5px;">
-        80%
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>
-      <div style="width: 65%; background-color: orange; color: white; text-align: center; padding: 3px; border-radius: 5px;">
-        65%
-      </div>
-    </td>
-  </tr>
-</table>
-
+| Language       | Proficiency         |
+|----------------|---------------------|
+| Python         | ██████████ 80%      |
+| JavaScript     | ███████--- 65%      |
+| C++            | ████████-- 70%      |
+| HTML & CSS     | ██████████ 90%      |
 
 ---
 
