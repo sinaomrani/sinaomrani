@@ -12,12 +12,12 @@
 
 ## 🔥 About Me
 
-- 🎓 **Field of Study**: Computer Engineering 
-- 🎸 **Hobby**: Guitar and Music Creation
-- 🌟 **Goal**: Secure a scholarship at MIT 🏆
-- 🌍 **Languages**: Persian (Native), English (Fluent)
-- 🇮🇷 Based in: Iran
-
+- 🎓 **Education**: Computer Engineering Student  
+- 🎸 **Hobby**: Guitar and Music Creation  
+- 🌟 **Passion**: Deeply passionate about computers, programming, and technology  
+- 🌍 **Languages**: Persian (Native), English (Fluent), Spanish (Basic)  
+- 🇮🇷 **Based in**: Iran
+  
 ---
 
 ## 🛠️ Skills & Proficiency
@@ -25,16 +25,19 @@
 ### Programming Languages
 | Language       | Proficiency         |
 |----------------|---------------------|
-| Python         | ![Python](https://progress-bar.dev/80/?title=Python&width=200&color=green) |
-| JavaScript     | ![JavaScript](https://progress-bar.dev/65/?title=JavaScript&width=200&color=yellow) |
-| C++            | ![C++](https://progress-bar.dev/70/?title=C++&width=200&color=blue) |
-| HTML & CSS     | ![HTML & CSS](https://progress-bar.dev/90/?title=HTML%20%26%20CSS&width=200&color=orange) |
+| Python         | ![Python](https://progress-bar.dev/90/?title=Python&width=200&color=green) |
+| JavaScript     | ![JavaScript](https://progress-bar.dev/70/?title=JavaScript&width=200&color=yellow) |
+| Ruby           | ![Ruby](https://progress-bar.dev/75/?title=Ruby&width=200&color=red) |
+| Dart           | ![Dart](https://progress-bar.dev/80/?title=Dart&width=200&color=blue) |
+| C#             | ![C#](https://progress-bar.dev/70/?title=C%23&width=200&color=purple) |
+| Java           | ![Java](https://progress-bar.dev/70/?title=Java&width=200&color=orange) |
 
 ### Frameworks & Libraries
 - **Frontend**: React.js, TailwindCSS, Bootstrap
-- **Backend**: Django, Flask, Node.js
-- **Tools**: Git, Docker, Webpack, Postman
-
+- **Backend**: Django, Flask, FastAPI, Pyrogram
+- **AI Libraries**: Pandas, NumPy, TensorFlow, Keras, Scikit-learn
+- **Mobile Development**: Flutter
+- **Tools**: Git, Docker, Postman
 
 ---
 
