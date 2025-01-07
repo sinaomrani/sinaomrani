@@ -74,5 +74,5 @@
 - [**Universe Explorer**](https://github.com/YourGitHubUsername/Universe-Explorer): A project to simulate the expansion of the universe.
 
 <p align="center">
-  Made with ❤️ by<strong>Sina Omrani</strong>
+  Made with ❤️ by <strong>Sina Omrani</strong>
 </p>
