@@ -27,27 +27,19 @@
 |----------------|---------------------|
 | Python         | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Advanced) |
 | Ruby           | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Advanced) |
-| JavaScript     | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
 | Dart           | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
 | Flutter        | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
-| C#             | ⭐⭐⭐⭐⭐⭐⭐ (Basic) |
+| C#             | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
+| JavaScript     | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
 | Java           | ⭐⭐⭐⭐⭐⭐⭐ (Basic) |
+| fortran        | ⭐⭐⭐⭐⭐⭐⭐ (Basic) |
 
 
 ### Frameworks & Libraries
-- **Frontend**: React.js, TailwindCSS, Bootstrap
-- **Backend**: Django, Flask, FastAPI, Pyrogram
+- **Backend**: Django, Flask, FastAPI, Telethon
 - **AI Libraries**: Pandas, NumPy, TensorFlow, Keras, Scikit-learn
 - **Mobile Development**: Flutter
 - **Tools**: Git, Docker, Postman
-
----
-
-## 🧑‍💻 Current Projects
-
-- 🚀 **AI-Powered Trading Bot**: Building an advanced cryptocurrency trading bot to maximize profits.
-- 🎸 **Guitar Music Channel**: Sharing guitar performances and compositions.
-- 🌟 **Geology Presentation**: Creating engaging content about the creation of the universe.
 
 ---
 
@@ -65,18 +57,11 @@
 <p align="center">
   <a href="mailto:sinaomrani.dev@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/YourTelegramHandle"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://discord.com/users/YourDiscordID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://discord.com/users/sinaomrani"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://github.com/sinaomrani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
-
-## 🎨 Showcase
-
-### ✨ Featured Projects
-- [**AI Trading Bot**](https://github.com/YourGitHubUsername/AI-Trading-Bot): A Python-based bot for analyzing and trading cryptocurrencies.
-- [**Guitar Masterpiece**](https://github.com/YourGitHubUsername/Guitar-Masterpiece): Explore my musical creations and tabs.
-- [**Universe Explorer**](https://github.com/YourGitHubUsername/Universe-Explorer): A project to simulate the expansion of the universe.
 
 <p align="center">
   Made with ❤️ by <strong>Sina Omrani</strong>
