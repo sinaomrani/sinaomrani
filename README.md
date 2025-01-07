@@ -5,7 +5,7 @@
 <h1 align="left">👋 Hi, I'm Sina Omrani!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36B37E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Exploring+Endless+Possibilities+with+Code+%F0%9F%92%BB;Building+Tomorrow's+Technology+Today+%F0%9F%92%AA;Creating+Magic+with+Guitar+%F0%9F%8E%B8" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36B37E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Exploring+Endless+Possibilities+with+Code+%F0%9F%92%BB;Building+Tomorrow's+Technology+Today+%F0%9F%92%AA;Creating+Magic+with+Guitar+%F0%9F%8E%B8" alt="Typing SVG">
 </div>
 
 ---
