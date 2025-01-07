@@ -25,12 +25,14 @@
 ### Programming Languages
 | Language       | Proficiency         |
 |----------------|---------------------|
-| Python         | ![Python](https://progress-bar.dev/90/?title=Python&width=200&color=green) |
-| JavaScript     | ![JavaScript](https://progress-bar.dev/70/?title=JavaScript&width=200&color=yellow) |
-| Ruby           | ![Ruby](https://progress-bar.dev/75/?title=Ruby&width=200&color=red) |
-| Dart           | ![Dart](https://progress-bar.dev/80/?title=Dart&width=200&color=blue) |
-| C#             | ![C#](https://progress-bar.dev/70/?title=C%23&width=200&color=purple) |
-| Java           | ![Java](https://progress-bar.dev/70/?title=Java&width=200&color=orange) |
+| Python         | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Advanced) |
+| Ruby           | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Advanced) |
+| JavaScript     | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
+| Dart           | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
+| Flutter        | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
+| C#             | ⭐⭐⭐⭐⭐⭐⭐ (Basic) |
+| Java           | ⭐⭐⭐⭐⭐⭐⭐ (Basic) |
+
 
 ### Frameworks & Libraries
 - **Frontend**: React.js, TailwindCSS, Bootstrap
