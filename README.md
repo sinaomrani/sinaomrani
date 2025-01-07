@@ -2,7 +2,7 @@
   <img src="assets/banner.gif" alt="Banner">
 </p>
 
-<h1 align="center">👋 Hi, I'm Sina Omrani!</h1>
+<h1 align="left">👋 Hi, I'm Sina Omrani!</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36B37E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Exploring+Endless+Possibilities+with+Code+%F0%9F%92%BB;Building+Tomorrow's+Technology+Today+%F0%9F%92%AA;Creating+Magic+with+Guitar+%F0%9F%8E%B8" alt="Typing SVG">
@@ -35,9 +35,6 @@
 - **Backend**: Django, Flask, Node.js
 - **Tools**: Git, Docker, Webpack, Postman
 
-### Other Skills
-- 🎨 Graphic Design: Adobe Photoshop, Figma
-- 🎵 Audio Editing: Audacity, FL Studio
 
 ---
 
@@ -77,5 +74,5 @@
 - [**Universe Explorer**](https://github.com/YourGitHubUsername/Universe-Explorer): A project to simulate the expansion of the universe.
 
 <p align="center">
-  Made with ❤️ and ☕ by <strong>Sina Omrani</strong>
+  Made with ❤️ by<strong>Sina Omrani</strong>
 </p>
