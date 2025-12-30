@@ -49,11 +49,20 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:sinaomrani.dev@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/YourTelegramHandle"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://discord.com/users/sinaomrani"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://github.com/sinaomrani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:sinaomrani.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/YourTelegramHandle">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://discord.com/users/sinaomrani">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-181717?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
 </p>
+
 
 ---
 
