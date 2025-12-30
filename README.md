@@ -26,13 +26,13 @@
 
 | Skill | Level |
 |---|---|
-| Python | ![](https://progress-bar.dev/90/?title=Advanced&width=350&color=1a8cff) |
-| Ruby | ![](https://progress-bar.dev/88/?title=Advanced&width=350&color=1a8cff) |
-| Dart / Flutter | ![](https://progress-bar.dev/75/?title=Intermediate&width=350&color=005eff) |
-| C# | ![](https://progress-bar.dev/72/?title=Intermediate&width=350&color=005eff) |
-| JavaScript | ![](https://progress-bar.dev/70/?title=Intermediate&width=350&color=005eff) |
-| Java | ![](https://progress-bar.dev/50/?title=Basic&width=350&color=0041a8) |
-| Fortran | ![](https://progress-bar.dev/45/?title=Basic&width=350&color=0041a8) |
+| Python | ![Python](https://img.shields.io/badge/Advanced-90%25-1a8cff?style=for-the-badge) |
+| Ruby | ![Ruby](https://img.shields.io/badge/Advanced-88%25-cc342d?style=for-the-badge) |
+| Dart / Flutter | ![Flutter](https://img.shields.io/badge/Intermediate-75%25-0aa7e3?style=for-the-badge) |
+| C# | ![C#](https://img.shields.io/badge/Intermediate-72%25-68217a?style=for-the-badge) |
+| JavaScript | ![JS](https://img.shields.io/badge/Intermediate-70%25-f7df1e?style=for-the-badge&logoColor=black) |
+| Java | ![Java](https://img.shields.io/badge/Basic-50%25-e76f00?style=for-the-badge) |
+| Fortran | ![Fortran](https://img.shields.io/badge/Basic-45%25-734f96?style=for-the-badge) |
 
 ---
 
