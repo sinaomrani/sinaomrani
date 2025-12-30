@@ -23,16 +23,18 @@
 ## 🛠️ Skills & Proficiency
 
 ### Programming Languages
-| Language       | Proficiency         |
-|----------------|---------------------|
-| Python         | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Advanced) |
-| Ruby           | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Advanced) |
-| Dart           | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
-| Flutter        | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
-| C#             | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
-| JavaScript     | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Intermediate) |
-| Java           | ⭐⭐⭐⭐⭐⭐⭐ (Basic) |
-| fortran        | ⭐⭐⭐⭐⭐⭐⭐ (Basic) |
+
+| Skill | Level |
+|---|---|
+| Python | ![](https://progress-bar.dev/90/?title=Advanced&width=350&color=1a8cff) |
+| Ruby | ![](https://progress-bar.dev/88/?title=Advanced&width=350&color=1a8cff) |
+| Dart / Flutter | ![](https://progress-bar.dev/75/?title=Intermediate&width=350&color=005eff) |
+| C# | ![](https://progress-bar.dev/72/?title=Intermediate&width=350&color=005eff) |
+| JavaScript | ![](https://progress-bar.dev/70/?title=Intermediate&width=350&color=005eff) |
+| Java | ![](https://progress-bar.dev/50/?title=Basic&width=350&color=0041a8) |
+| Fortran | ![](https://progress-bar.dev/45/?title=Basic&width=350&color=0041a8) |
+
+---
 
 
 ### Frameworks & Libraries
