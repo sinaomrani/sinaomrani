@@ -29,10 +29,10 @@
 | <img src="https://img.shields.io/badge/Python-90%25-black?style=for-the-badge&logo=python&logoColor=yellow"> |
 | <img src="https://img.shields.io/badge/Ruby-88%25-black?style=for-the-badge&logo=ruby&logoColor=red"> |
 | <img src="https://img.shields.io/badge/Dart%20/Flutter-75%25-black?style=for-the-badge&logo=flutter&logoColor=00d7ff"> |
-| <img src="https://img.shields.io/badge/C%23-72%25-black?style=for-the-badge&logo=sharp&logoColor=purple"> |
+| <img src="https://img.shields.io/badge/C%23-72%25-black?style=for-the-badge&logo=sharp&logoColor=9b59b6"> |
 | <img src="https://img.shields.io/badge/JavaScript-70%25-black?style=for-the-badge&logo=javascript&logoColor=f7df1e"> |
-| <img src="https://img.shields.io/badge/Java-50%25-black?style=for-the-badge&logo=android&logoColor=e76f00"> |
-| <img src="https://img.shields.io/badge/Fortran-45%25-black?style=for-the-badge&logo=fortran&logoColor=734f96"> |
+| <img src="https://img.shields.io/badge/Java-50%25-black?style=for-the-badge&logo=android"> |
+| <img src="https://img.shields.io/badge/Fortran-45%25-black?style=for-the-badge&logo=fortran&logoColor=9b59b6"> |
 
 ---
 
