@@ -51,17 +51,18 @@
 <p align="center">
   <a href="mailto:sinaomrani.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://t.me/YourTelegramHandle">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/sinaomrani">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Twitter-181717?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/YourTwitterHandle">
+    <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </p>
+
 
 
 ---
