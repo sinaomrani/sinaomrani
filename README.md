@@ -24,15 +24,15 @@
 
 ### Programming Languages
 
-| Skill | Level |
-|---|---|
-| Python | ![Python](https://img.shields.io/badge/Advanced-90%25-1a8cff?style=for-the-badge) |
-| Ruby | ![Ruby](https://img.shields.io/badge/Advanced-88%25-cc342d?style=for-the-badge) |
-| Dart / Flutter | ![Flutter](https://img.shields.io/badge/Intermediate-75%25-0aa7e3?style=for-the-badge) |
-| C# | ![C#](https://img.shields.io/badge/Intermediate-72%25-68217a?style=for-the-badge) |
-| JavaScript | ![JS](https://img.shields.io/badge/Intermediate-70%25-f7df1e?style=for-the-badge&logoColor=black) |
-| Java | ![Java](https://img.shields.io/badge/Basic-50%25-e76f00?style=for-the-badge) |
-| Fortran | ![Fortran](https://img.shields.io/badge/Basic-45%25-734f96?style=for-the-badge) |
+| Skill |
+|-------|
+| <img src="https://img.shields.io/badge/Python-90%25-black?style=for-the-badge&logo=python&logoColor=yellow"> |
+| <img src="https://img.shields.io/badge/Ruby-88%25-black?style=for-the-badge&logo=ruby&logoColor=red"> |
+| <img src="https://img.shields.io/badge/Dart%20/Flutter-75%25-black?style=for-the-badge&logo=flutter&logoColor=00d7ff"> |
+| <img src="https://img.shields.io/badge/C%23-72%25-black?style=for-the-badge&logo=csharp&logoColor=purple"> |
+| <img src="https://img.shields.io/badge/JavaScript-70%25-black?style=for-the-badge&logo=javascript&logoColor=f7df1e"> |
+| <img src="https://img.shields.io/badge/Java-50%25-black?style=for-the-badge&logo=java&logoColor=e76f00"> |
+| <img src="https://img.shields.io/badge/Fortran-45%25-black?style=for-the-badge&logo=fortran&logoColor=734f96"> |
 
 ---
 
