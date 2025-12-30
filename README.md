@@ -49,19 +49,12 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:sinaomrani.dev@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/YourTelegramHandle" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/sinaomrani" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/YourTwitterHandle" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinaomrani.dev@gmail.com) &nbsp;&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegramHandle) &nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sinaomrani) &nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YourTwitterHandle)
 </p>
+
 
 
 
